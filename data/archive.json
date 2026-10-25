@@ -1,0 +1,401 @@
+[
+  {
+    "id": "0-01",
+    "title": "직업훈련교사 1급 · 문화콘텐츠",
+    "category": "자격증",
+    "image": "assets/evidence/0-01.webp",
+    "thumb": "assets/evidence/0-01-thumb.webp"
+  },
+  {
+    "id": "0-02",
+    "title": "직업훈련교사 1급 · 디자인",
+    "category": "자격증",
+    "image": "assets/evidence/0-02.webp",
+    "thumb": "assets/evidence/0-02-thumb.webp"
+  },
+  {
+    "id": "0-03",
+    "title": "직업훈련교사 1급 · 영상제작",
+    "category": "자격증",
+    "image": "assets/evidence/0-03.webp",
+    "thumb": "assets/evidence/0-03-thumb.webp"
+  },
+  {
+    "id": "0-04",
+    "title": "직업훈련교사 2급 · 총무·일반사무",
+    "category": "자격증",
+    "image": "assets/evidence/0-04.webp",
+    "thumb": "assets/evidence/0-04-thumb.webp"
+  },
+  {
+    "id": "0-05",
+    "title": "직업훈련교사 2급 · 정보기술운영·관리",
+    "category": "자격증",
+    "image": "assets/evidence/0-05.webp",
+    "thumb": "assets/evidence/0-05-thumb.webp"
+  },
+  {
+    "id": "0-06",
+    "title": "직업훈련교사 2급 · 정보기술개발",
+    "category": "자격증",
+    "image": "assets/evidence/0-06.webp",
+    "thumb": "assets/evidence/0-06-thumb.webp"
+  },
+  {
+    "id": "0-07",
+    "title": "직업훈련교사 2급 · 정보기술전략·계획",
+    "category": "자격증",
+    "image": "assets/evidence/0-07.webp",
+    "thumb": "assets/evidence/0-07-thumb.webp"
+  },
+  {
+    "id": "0-08",
+    "title": "GTQ 그래픽기술자격 전문강사",
+    "category": "자격증",
+    "image": "assets/evidence/0-08.webp",
+    "thumb": "assets/evidence/0-08-thumb.webp"
+  },
+  {
+    "id": "0-09",
+    "title": "ITQ 공인강사",
+    "category": "자격증",
+    "image": "assets/evidence/0-09.webp",
+    "thumb": "assets/evidence/0-09-thumb.webp"
+  },
+  {
+    "id": "0-10",
+    "title": "정보처리기사 · 사무자동화산업기사",
+    "category": "자격증",
+    "image": "assets/evidence/0-10.webp",
+    "thumb": "assets/evidence/0-10-thumb.webp"
+  },
+  {
+    "id": "0-11",
+    "title": "컴퓨터활용능력 · 워드프로세서",
+    "category": "자격증",
+    "image": "assets/evidence/0-11.webp",
+    "thumb": "assets/evidence/0-11-thumb.webp"
+  },
+  {
+    "id": "0-12",
+    "title": "컴퓨터그래픽스 · 정보통신 자격",
+    "category": "자격증",
+    "image": "assets/evidence/0-12.webp",
+    "thumb": "assets/evidence/0-12-thumb.webp"
+  },
+  {
+    "id": "0-13",
+    "title": "DIAT 공인강사",
+    "category": "자격증",
+    "image": "assets/evidence/0-13.webp",
+    "thumb": "assets/evidence/0-13-thumb.webp"
+  },
+  {
+    "id": "0-14",
+    "title": "ICDL 국제자격증",
+    "category": "자격증",
+    "image": "assets/evidence/0-14.webp",
+    "thumb": "assets/evidence/0-14-thumb.webp"
+  },
+  {
+    "id": "0-15",
+    "title": "AutoCAD 기술인정 등록증",
+    "category": "자격증",
+    "image": "assets/evidence/0-15.webp",
+    "thumb": "assets/evidence/0-15-thumb.webp"
+  },
+  {
+    "id": "0-16",
+    "title": "디지털·디자인 자격증 모음",
+    "category": "자격증",
+    "image": "assets/evidence/0-16.webp",
+    "thumb": "assets/evidence/0-16-thumb.webp"
+  },
+  {
+    "id": "0-17",
+    "title": "SNS마케팅전문가 1급",
+    "category": "자격증",
+    "image": "assets/evidence/0-17.webp",
+    "thumb": "assets/evidence/0-17-thumb.webp"
+  },
+  {
+    "id": "0-18",
+    "title": "스마트폰활용지도사 1급",
+    "category": "자격증",
+    "image": "assets/evidence/0-18.webp",
+    "thumb": "assets/evidence/0-18-thumb.webp"
+  },
+  {
+    "id": "0-19",
+    "title": "AI 챗GPT 전문지도사 2급",
+    "category": "자격증",
+    "image": "assets/evidence/0-19.webp",
+    "thumb": "assets/evidence/0-19-thumb.webp"
+  },
+  {
+    "id": "0-20",
+    "title": "AI 리터러시 지도사 2급",
+    "category": "자격증",
+    "image": "assets/evidence/0-20.webp",
+    "thumb": "assets/evidence/0-20-thumb.webp"
+  },
+  {
+    "id": "1-01",
+    "title": "집필확인서 · 2026",
+    "category": "집필",
+    "image": "assets/evidence/1-01.webp",
+    "thumb": "assets/evidence/1-01-thumb.webp"
+  },
+  {
+    "id": "1-02",
+    "title": "집필확인서 · 2011",
+    "category": "집필",
+    "image": "assets/evidence/1-02.webp",
+    "thumb": "assets/evidence/1-02-thumb.webp"
+  },
+  {
+    "id": "1-03",
+    "title": "집필확인서 · 2014",
+    "category": "집필",
+    "image": "assets/evidence/1-03.webp",
+    "thumb": "assets/evidence/1-03-thumb.webp"
+  },
+  {
+    "id": "1-04",
+    "title": "집필확인서 · 2017",
+    "category": "집필",
+    "image": "assets/evidence/1-04.webp",
+    "thumb": "assets/evidence/1-04-thumb.webp"
+  },
+  {
+    "id": "1-05",
+    "title": "사회복지 자원봉사 실적 인증서",
+    "category": "자원봉사",
+    "image": "assets/evidence/1-05.webp",
+    "thumb": "assets/evidence/1-05-thumb.webp"
+  },
+  {
+    "id": "1-06",
+    "title": "자원봉사 활동 내역 1",
+    "category": "자원봉사",
+    "image": "assets/evidence/1-06.webp",
+    "thumb": "assets/evidence/1-06-thumb.webp"
+  },
+  {
+    "id": "1-07",
+    "title": "자원봉사 활동 내역 2",
+    "category": "자원봉사",
+    "image": "assets/evidence/1-07.webp",
+    "thumb": "assets/evidence/1-07-thumb.webp"
+  },
+  {
+    "id": "1-08",
+    "title": "자원봉사 활동 내역 3",
+    "category": "자원봉사",
+    "image": "assets/evidence/1-08.webp",
+    "thumb": "assets/evidence/1-08-thumb.webp"
+  },
+  {
+    "id": "1-09",
+    "title": "자원봉사 활동 내역 4",
+    "category": "자원봉사",
+    "image": "assets/evidence/1-09.webp",
+    "thumb": "assets/evidence/1-09-thumb.webp"
+  },
+  {
+    "id": "3-01",
+    "title": "전국 정보화 경연대회 · 동영상 제작 은상",
+    "category": "수상·표창",
+    "image": "assets/evidence/3-01.webp",
+    "thumb": "assets/evidence/3-01-thumb.webp"
+  },
+  {
+    "id": "3-02",
+    "title": "기예경진대회 · 컴퓨터 부문 우수상",
+    "category": "수상·표창",
+    "image": "assets/evidence/3-02.webp",
+    "thumb": "assets/evidence/3-02-thumb.webp"
+  },
+  {
+    "id": "3-03",
+    "title": "한국기술교육대학교 · 공로상",
+    "category": "수상·표창",
+    "image": "assets/evidence/3-03.webp",
+    "thumb": "assets/evidence/3-03-thumb.webp"
+  },
+  {
+    "id": "3-04",
+    "title": "경기도 장애인 연합회 · 감사패",
+    "category": "수상·표창",
+    "image": "assets/evidence/3-04.webp",
+    "thumb": "assets/evidence/3-04-thumb.webp"
+  },
+  {
+    "id": "3-05",
+    "title": "의왕시장 · 표창장",
+    "category": "수상·표창",
+    "image": "assets/evidence/3-05.webp",
+    "thumb": "assets/evidence/3-05-thumb.webp"
+  },
+  {
+    "id": "3-06",
+    "title": "경기도교육위원회 · 표창장",
+    "category": "수상·표창",
+    "image": "assets/evidence/3-06.webp",
+    "thumb": "assets/evidence/3-06-thumb.webp"
+  },
+  {
+    "id": "3-07",
+    "title": "군포시교육청 교육장 · 표창장",
+    "category": "수상·표창",
+    "image": "assets/evidence/3-07.webp",
+    "thumb": "assets/evidence/3-07-thumb.webp"
+  },
+  {
+    "id": "4-01",
+    "title": "ChatGPT 프롬프트 작성원리",
+    "category": "GSEEK 수료",
+    "image": "assets/evidence/4-01.webp",
+    "thumb": "assets/evidence/4-01-thumb.webp"
+  },
+  {
+    "id": "4-02",
+    "title": "GPT 활용 · 7가지 치트키",
+    "category": "GSEEK 수료",
+    "image": "assets/evidence/4-02.webp",
+    "thumb": "assets/evidence/4-02-thumb.webp"
+  },
+  {
+    "id": "4-03",
+    "title": "SNS 마케팅 마스터하기",
+    "category": "GSEEK 수료",
+    "image": "assets/evidence/4-03.webp",
+    "thumb": "assets/evidence/4-03-thumb.webp"
+  },
+  {
+    "id": "4-04",
+    "title": "생성형 AI 활용하기",
+    "category": "GSEEK 수료",
+    "image": "assets/evidence/4-04.webp",
+    "thumb": "assets/evidence/4-04-thumb.webp"
+  },
+  {
+    "id": "4-05",
+    "title": "실무에 바로 쓰는 스마트툴 활용법",
+    "category": "GSEEK 수료",
+    "image": "assets/evidence/4-05.webp",
+    "thumb": "assets/evidence/4-05-thumb.webp"
+  },
+  {
+    "id": "5-01",
+    "title": "안산시평생학습관 · 강사역량강화",
+    "category": "직무연수",
+    "image": "assets/evidence/5-01.webp",
+    "thumb": "assets/evidence/5-01-thumb.webp"
+  },
+  {
+    "id": "5-02",
+    "title": "NCS 직업기초능력 · 교수자 과정",
+    "category": "직무연수",
+    "image": "assets/evidence/5-02.webp",
+    "thumb": "assets/evidence/5-02-thumb.webp"
+  },
+  {
+    "id": "5-03",
+    "title": "직업능력개발 1급 향상훈련",
+    "category": "직무연수",
+    "image": "assets/evidence/5-03.webp",
+    "thumb": "assets/evidence/5-03-thumb.webp"
+  },
+  {
+    "id": "5-04",
+    "title": "Excel BI · 빅데이터 가공 기초",
+    "category": "직무연수",
+    "image": "assets/evidence/5-04.webp",
+    "thumb": "assets/evidence/5-04-thumb.webp"
+  },
+  {
+    "id": "5-05",
+    "title": "Wix 활용 · 디지털디자인",
+    "category": "직무연수",
+    "image": "assets/evidence/5-05.webp",
+    "thumb": "assets/evidence/5-05-thumb.webp"
+  },
+  {
+    "id": "5-06",
+    "title": "컬러리스트 전문교육",
+    "category": "직무연수",
+    "image": "assets/evidence/5-06.webp",
+    "thumb": "assets/evidence/5-06-thumb.webp"
+  },
+  {
+    "id": "5-07",
+    "title": "직업능력개발 2급 향상훈련",
+    "category": "직무연수",
+    "image": "assets/evidence/5-07.webp",
+    "thumb": "assets/evidence/5-07-thumb.webp"
+  },
+  {
+    "id": "5-08",
+    "title": "NCS 이해 및 활용",
+    "category": "직무연수",
+    "image": "assets/evidence/5-08.webp",
+    "thumb": "assets/evidence/5-08-thumb.webp"
+  },
+  {
+    "id": "5-09",
+    "title": "NCS 기반 훈련과정 편성",
+    "category": "직무연수",
+    "image": "assets/evidence/5-09.webp",
+    "thumb": "assets/evidence/5-09-thumb.webp"
+  },
+  {
+    "id": "5-10",
+    "title": "직업능력개발 훈련교사 교직과정",
+    "category": "직무연수",
+    "image": "assets/evidence/5-10.webp",
+    "thumb": "assets/evidence/5-10-thumb.webp"
+  },
+  {
+    "id": "5-11",
+    "title": "화성시여성비전센터 · 강사역량강화",
+    "category": "직무연수",
+    "image": "assets/evidence/5-11.webp",
+    "thumb": "assets/evidence/5-11-thumb.webp"
+  },
+  {
+    "id": "5-12",
+    "title": "경기도 여성교육기관 · 강사역량강화",
+    "category": "직무연수",
+    "image": "assets/evidence/5-12.webp",
+    "thumb": "assets/evidence/5-12-thumb.webp"
+  },
+  {
+    "id": "5-13",
+    "title": "서울교육대학교 · 방과후 강사 연수",
+    "category": "직무연수",
+    "image": "assets/evidence/5-13.webp",
+    "thumb": "assets/evidence/5-13-thumb.webp"
+  },
+  {
+    "id": "5-14",
+    "title": "경기도교육청 · 방과후 강사 연수",
+    "category": "직무연수",
+    "image": "assets/evidence/5-14.webp",
+    "thumb": "assets/evidence/5-14-thumb.webp"
+  },
+  {
+    "id": "5-15",
+    "title": "화성시 · 평생교육강사 연수",
+    "category": "직무연수",
+    "image": "assets/evidence/5-15.webp",
+    "thumb": "assets/evidence/5-15-thumb.webp"
+  },
+  {
+    "id": "5-16",
+    "title": "몰입도를 높이는 교수법",
+    "category": "직무연수",
+    "image": "assets/evidence/5-16.webp",
+    "thumb": "assets/evidence/5-16-thumb.webp"
+  }
+]

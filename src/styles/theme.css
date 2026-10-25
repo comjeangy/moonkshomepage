@@ -1,0 +1,13 @@
+/* Shared design tokens. Change the site's palette here. */
+:root {
+  --ink: #20233e;
+  --muted: #666a86;
+  --paper: #f8f9fe;
+  --line: #dfe0ed;
+  --violet: #7054ed;
+  --violet-dark: #5637d6;
+  --mint: #8febdf;
+  --font: 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+  --page-width: 1240px;
+  --section-width: 1170px;
+}
