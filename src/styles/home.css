@@ -217,6 +217,39 @@
   border-radius: 20px;
   background: #efedfa;
 }
+.classes-heading {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.35fr) auto;
+  align-items: center;
+  gap: 24px;
+}
+
+.classes-message {
+  padding-inline-start: 18px;
+  border-inline-start: 2px solid #9a83ed;
+  color: #4d347f;
+  font-size: clamp(13px, 1.45vw, 17px);
+  font-weight: 600;
+  line-height: 1.55;
+  word-break: keep-all;
+}
+
+.classes-message strong {
+  color: #633db9;
+  font-size: 1.18em;
+}
+
+.classes-message p {
+  margin: 4px 0 0;
+}
+
+@media (max-width: 760px) {
+  .classes-heading {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+}
+
 .classes h2 {
   color: #292344;
 }
